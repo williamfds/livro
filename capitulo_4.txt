@@ -1,4 +1,4 @@
-Título: Mini Mundo referente a Banco de Dados
+Título: MiniMundo, movendo o mundo dentro da sua mente
 	
 	Primeiro Parágrafo do Capitulo quase legal.
 	
