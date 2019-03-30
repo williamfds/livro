@@ -1,0 +1,9 @@
+Titulo: Instalação e Configuração de Banco de Dados PostgreSQL
+
+
+<<<<<<< HEAD
+	Primeiro paragrafo do meu livro!
+	Primeiro paragrafo do meu livro!
+>>>>>>> Feito Alteracao para simular conflitos
+
+	'Banco de Dados é Top' [Silb]
